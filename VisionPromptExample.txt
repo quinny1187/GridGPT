@@ -1,0 +1,7 @@
+I have given you a picture with a grid on top of it. There is a grid line every
+ {cell size - you replace this value} pixels for both the x and y axis. They form
+ a grid in which one cell of that grid we will call a "grid cell". Every grid cell
+ has a unique identifier in faint text inside the cell. You can recognize this identifier
+ because it is an alphanumeric number ranging from 000 to 999.  I will ask you to locate
+ a specific object in this image underneath the grid. Can you now give me a grid cell or a
+ group of grid cells that lies on top of the {object of interest - you replace this value}?
