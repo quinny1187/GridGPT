@@ -7,6 +7,10 @@ Grid GPT is a class you can use in your ChatGPT vision api projects that will al
 #Example 2: Large 4k Image 100 pixel cell size - ask for group of cell grids
 ![image](https://github.com/quinny1187/GridGPT/assets/108108975/8b7dcd07-3b52-4b43-9d91-d2d7d2d1bc05)
 
+#Example 3: Full prompt example first message in a new chat with ChatGPT and Vision nails it
+![image](https://github.com/quinny1187/GridGPT/assets/108108975/6ff36234-ce46-48c9-8d57-7c52523594d9)
+
+
 #How it works
 During runtime it takes your image and uses Pillow to
 1. Lay down cells of transparent white background. You modify the intensity of this in the code.
