@@ -11,7 +11,7 @@ Grid GPT is a class you can use in your ChatGPT vision api projects that will al
 ![image](https://github.com/quinny1187/GridGPT/assets/108108975/6ff36234-ce46-48c9-8d57-7c52523594d9)
 
 
-#How it works
+# How it works
 During runtime it takes your image and uses Pillow to
 1. Lay down cells of transparent white background. You modify the intensity of this in the code.
 2. Draw the grids according to cell size. They should cover the entire picture even if the cell size doesnt divide by your image size correctly.
